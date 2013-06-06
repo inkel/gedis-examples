@@ -1,0 +1,4 @@
+gedis examples
+
+gedis is a a low-level interface in Go for Redis. To find out more
+about gedis go to: http://godoc.org/github.com/inkel/gedis
